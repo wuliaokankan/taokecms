@@ -1,37 +1,29 @@
 # 淘宝客CMS， 淘宝优惠券cms，淘客CMS商城，淘宝客cms建站系统
 
-#### 介绍
+# 软件介绍
 淘宝客CMS， 淘宝优惠券cms，淘客CMS商城，淘宝客cms建站系统
 
-#### 软件架构
-软件架构说明
+适合程序媛IT人士等赚外快，网购达人省钱购物
+
+# 软件架构
+springboot+mybatis+freemaker
+
+-------------------------- 源码可出售，具体请加微信happybabby110咨询 ----------------------
+
+# 软件特色
+PC移动端一体站
+基础功能齐全，二次拓展方便
+可提供源码，二次开发灰常简单
+查券、返利、领红包、薅羊毛功能齐全
+
+# 软件截图
+![淘宝优惠券cms](https://images.gitee.com/uploads/images/2020/0507/112647_d9326142_4908820.jpeg "淘宝优惠券cms.jpg")
+![淘宝客cms建站系统](https://images.gitee.com/uploads/images/2020/0507/112728_277b657d_4908820.jpeg "淘宝客cms建站系统.jpg")
 
 
-#### 安装教程
+#### 合作咨询微信happybabby110
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![淘客机器人QQ讨论群](http://www.wlkankan.cn/image/201912/3098E71D26551D482FB4E91373C4B078.png "淘客机器人QQ讨论群")
 
 
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 个人博客[http://www.wlkankan.cn](http://www.wlkankan.cn)
