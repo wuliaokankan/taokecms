@@ -25,11 +25,6 @@ springboot+mybatis+freemaker
 ![淘宝客cms建站系统](https://images.gitee.com/uploads/images/2020/0507/112728_277b657d_4908820.jpeg "淘宝客cms建站系统.jpg")
 
 
-#### 合作咨询微信happybabby110
-
-![淘客机器人QQ讨论群](http://www.wlkankan.cn/image/201912/3098E71D26551D482FB4E91373C4B078.png "淘客机器人QQ讨论群")
-
-
 #### 个人博客
 
 [http://www.wlkankan.cn](http://www.wlkankan.cn)
@@ -41,3 +36,11 @@ springboot+mybatis+freemaker
 [微信公众号淘客查券返利系统](https://gitee.com/tangjinjinwx/wechatfanli)
 
 [个人微信开发SDK](https://gitee.com/tangjinjinwx/Public.WeChat.CRM.SDK/)
+
+
+#### 合作咨询请加微信happybabby110
+
+淘客机器人技术交流QQ群，加群请注明来意
+
+![淘客机器人QQ讨论群](http://www.wlkankan.cn/image/201912/3098E71D26551D482FB4E91373C4B078.png "淘客机器人QQ讨论群")
+
