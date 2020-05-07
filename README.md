@@ -12,8 +12,11 @@ springboot+mybatis+freemaker
 
 #### 软件特色
 PC移动端一体站
+
 基础功能齐全，二次拓展方便
+
 可提供源码，二次开发灰常简单
+
 查券、返利、领红包、薅羊毛功能齐全
 
 #### 软件截图
@@ -26,9 +29,14 @@ PC移动端一体站
 ![淘客机器人QQ讨论群](http://www.wlkankan.cn/image/201912/3098E71D26551D482FB4E91373C4B078.png "淘客机器人QQ讨论群")
 
 
-#### 个人博客[http://www.wlkankan.cn](http://www.wlkankan.cn)
+#### 个人博客
+
+[http://www.wlkankan.cn](http://www.wlkankan.cn)
 
 #### 其他系统方案
+
 [微信个人号淘客返利机器人项目](https://gitee.com/tangjinjinwx/wechatbot)
+
 [微信公众号淘客查券返利系统](https://gitee.com/tangjinjinwx/wechatfanli)
+
 [个人微信开发SDK](https://gitee.com/tangjinjinwx/Public.WeChat.CRM.SDK/)
